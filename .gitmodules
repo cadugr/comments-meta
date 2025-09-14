@@ -1,0 +1,6 @@
+[submodule "microservices/comment-service"]
+	path = microservices/comment-service
+	url = git@github.com:cadugr/comment-microservice.git
+[submodule "microservices/moderation-service"]
+	path = microservices/moderation-service
+	url = git@github.com:cadugr/moderation-microservice.git
